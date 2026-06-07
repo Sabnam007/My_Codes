@@ -1,0 +1,28 @@
+Convolutional Neural Networks (CNNs):
+ The backbone of computer vision in nutrition. CNNs process food photos to recognize items and segment individual ingredients on a plate, even accounting for partial occlusion
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11638690/
+
+
+Natural Language Processing (NLP):
+ Large Language Models (LLMs) interpret conversational text—such as voice-to-text food journaling—to automatically populate nutritional databases.
+
+Deep Learning (YOLOv8 & GANs): 
+Advanced frameworks analyze images in real-time to estimate the volume and portion sizes of served and remaining food, directly converting visual data into precise calorie and macronutrient counts.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12325300/
+
+Support Vector Machines (SVM) & Random Forests: Used for interpreting spectral data (like Near-Infrared or Raman spectroscopy) to rapidly identify chemical compositions and detect food adulteration without needing extensive lab tests.
+https://foodjournal.researchfloor.org/artificial-intelligence-in-food-analysis-and-nutritional-surveillance-current-applications-and-future-potential/
+
+
+Generative Models: Power personalized nutrition engines by predicting how different foods, dietary constraints, and microbial metabolisms will affect a user's health.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12914456/
+
+
+
+
+
+
+
+
+
+
